@@ -50,7 +50,6 @@ disqusShortname = ""
     subtitle = "Where DevOps becomes practice"
     buttonText = "Get Started"
 
-
   # Tiles Section
   [params.tiles]
     enable = true
@@ -101,3 +100,5 @@ disqusShortname = ""
       icon = "fa-linkedin"
       url= "https://www.linkedin.com/in/viktorfarcic/"
       label = "LinkedIn"
+
+ 
